@@ -1,0 +1,30 @@
+{
+	"name": "weathe-cli",
+	"version": "1.0.0",
+	"private": false,
+	"description": "cli for weather",
+	"main": "index.js",
+	"bin": "./index.js",
+	"os": ["linux"],
+	"engines": {
+		"node": ">16"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"cli",
+		"weather"
+	],
+	"author": "Boss",
+	"license": "ISC",
+	"homepage": "http",
+	"repository": {
+		"type": "git",
+		"url": "http"
+	},
+	"bugs": {
+		"url": "http",
+		"email": "hidden"
+	}
+}
